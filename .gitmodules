@@ -1,0 +1,3 @@
+[submodule "gamo-of-life/My project"]
+	path = gamo-of-life/My project
+	url = https://github.com/SeniorAspro/game-of-life.git
